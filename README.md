@@ -1,6 +1,6 @@
 # Profil Mahasiswa :
 ```
-Kelompok 5
+Kelompok 
 - Mikael Rivaldo (312210378)
 - AFRIZAL FAJRIANTO ANGGARA SAKTI (312210449)
 - MAULANA ZIDAN PERDANA (312210463)
