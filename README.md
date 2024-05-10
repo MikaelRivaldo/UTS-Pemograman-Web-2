@@ -12,4 +12,4 @@ Kelompok
 | LAPORAN  | [Link]() |
 | YOUTUBE  | [Link]() |
 
-Bila ada kesalahan dalam penulisan mohon di maafkan
+Bila ada kesalahan dalam penulisan mohon di maafkan ya.
