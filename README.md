@@ -13,7 +13,27 @@
 | LAPORAN | [Link]() |
 | YOUTUBE | [Link]() |
 
-## Use Case
+# Sistem Penjual Buku 
+
+Proyek ini adalah sebuah sistem penjualan buku sederhana yang dirancang untuk membantu dalam manajemen penjualan buku pada sebuah toko buku. Sistem ini memungkinkan pengguna untuk mencatat informasi buku, melakukan penjualan, dan melihat laporan penjualan.
+
+## Fitur:
+
+1. Manajemen Buku:
+Tambahkan buku baru ke dalam sistem dengan informasi seperti judul, penulis, harga, dan stok.
+Perbarui informasi buku yang sudah ada seperti harga dan stok.
+Hapus buku yang sudah tidak dijual lagi dari sistem.
+
+2. Penjualan:
+Catat penjualan buku dengan memilih buku yang dijual dan jumlahnya.
+Hitung total harga penjualan otomatis.
+Otomatis mengurangi stok buku setelah penjualan.
+
+3. Laporan Penjualan:
+Lihat laporan penjualan berdasarkan rentang tanggal tertentu.
+Laporan mencakup informasi seperti total penjualan, jumlah buku yang terjual, dan penjualan terlaris.
+
+## Use Case 
 
 ![WhatsApp Image 2024-05-10 at 21 33 33](https://github.com/MikaelRivaldo/UTS-Pemograman-Web-2/assets/115614173/f89dd9cb-3a79-40a8-83ba-a4494a664df0)
 
