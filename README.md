@@ -37,7 +37,7 @@ Laporan mencakup informasi seperti total penjualan, jumlah buku yang terjual, da
 
 ![WhatsApp Image 2024-05-10 at 21 33 33](https://github.com/MikaelRivaldo/UTS-Pemograman-Web-2/assets/115614173/f89dd9cb-3a79-40a8-83ba-a4494a664df0)
 
-## Demo Program/Figma
+## Propotype/Figma
 
 https://www.figma.com/proto/0cAt9DcXfgO7MmhXwng3qo/Book-Store-Web-and-U%C4%B0%2FUX-Design-(Community)?type=design&node-id=147-36&t=2MLf6o0b2EJCS19T-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A2&show-proto-sidebar=1&mode=design
 
@@ -78,6 +78,43 @@ https://www.figma.com/proto/0cAt9DcXfgO7MmhXwng3qo/Book-Store-Web-and-U%C4%B0%2F
 ---
 
 ![image](https://github.com/MikaelRivaldo/UTS-Pemograman-Web-2/assets/115770247/1d26beeb-36de-4677-bc70-dec1d6e1f939)
+
+## Demo Program
+
+# Tampilan Login
+
+![image](https://github.com/MikaelRivaldo/UTS-Pemograman-Web-2/assets/115770247/c6fb5b77-4bca-46b1-833f-5a656658cee9)
+
+# Tampilan Home/Dasboard
+
+![image](https://github.com/MikaelRivaldo/UTS-Pemograman-Web-2/assets/115770247/992f1b07-7e23-4b70-b1f0-5636a4e86ab4)
+
+# Tampilan Kategori Buku
+
+![image](https://github.com/MikaelRivaldo/UTS-Pemograman-Web-2/assets/115770247/ced77edf-b9ab-4de0-98a8-db5a51ba0591)
+
+# Tampilan Deskripsi Buku
+
+![image](https://github.com/MikaelRivaldo/UTS-Pemograman-Web-2/assets/115770247/3f6dca27-8418-4de9-b7d8-a9ba169418d1)
+
+# Tampilan Penjualan Transaksi
+
+![image](https://github.com/MikaelRivaldo/UTS-Pemograman-Web-2/assets/115770247/adc4ac1e-f3d9-4084-a29a-48a405417365)
+
+# Tampilan History Transaksi
+
+![image](https://github.com/MikaelRivaldo/UTS-Pemograman-Web-2/assets/115770247/091d2fbd-6fb3-4649-9597-011a46de8b09)
+
+# Tampilan System/User/Pengguna
+
+![image](https://github.com/MikaelRivaldo/UTS-Pemograman-Web-2/assets/115770247/fc6f63d7-14ef-44d7-9078-cb43a9e6a67e)
+
+
+
+
+
+
+
 
 
 
