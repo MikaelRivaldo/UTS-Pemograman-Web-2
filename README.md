@@ -11,7 +11,7 @@
 | File    | Link     |
 | ------- | -------- |
 | LAPORAN | [Link]() |
-| YOUTUBE | [Link]() |
+
 
 # Sistem Penjual Buku 
 
