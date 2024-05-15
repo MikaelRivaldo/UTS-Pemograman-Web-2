@@ -10,7 +10,7 @@
 
 | File    | Link     |
 | ------- | -------- |
-| LAPORAN | [Link]() |
+| LAPORAN | [Link](https://drive.google.com/file/d/1EIw1COoAtaigYAkyi4GCUWjhTzIASx3Z/view?usp=sharing) |
 
 
 # Sistem Penjual Buku 
